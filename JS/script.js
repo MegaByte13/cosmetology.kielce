@@ -209,7 +209,7 @@ const tl5=gsap.timeline({
     scrollTrigger: {
         trigger: '.OP',
         start: 'top +=600',
-        markers: true,
+        // markers: true,
         // scrub: true,
     }
 })
